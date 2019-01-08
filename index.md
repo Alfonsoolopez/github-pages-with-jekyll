@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bienvenido a mi blog
 
-I'm glad you are here. I plan to talk about ...
+*Soy Alfonso López y este es mi primer blog*
